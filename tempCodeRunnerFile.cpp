@@ -1,0 +1,2 @@
+    derived d;
+    d.display();
